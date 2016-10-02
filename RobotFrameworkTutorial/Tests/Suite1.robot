@@ -62,3 +62,6 @@ TC_0234
     log    anam
     log    kona
     open browser  https://www.facebook.com/
+
+TC_035
+    open browser  https://www.google.com/
